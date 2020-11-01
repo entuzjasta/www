@@ -21,8 +21,8 @@ Od 2021 roku będzie szansa na współpracę w formie konsultacji odpłatnej, ob
 
 Moja działalność edukacyjna będzie oparta o kilka platform jednocześnie, w formie video, audio i oczywiście pisanej na stronie entuzjasta.pl, którea w tej chwili jest jeszcze w przygotowaniu.
 
-Do miłego zobaczenia,
-Tom Sapletta
+      Do miłego zobaczenia,
+      Tom Sapletta
 
 TAGI:
 + #entuzjasta 
