@@ -5,7 +5,7 @@ Hardware & Software Development z pasją, od pomysyłu do wdrożenia i utrzymani
 
 + nakręcamy spiralę entuzjazmu... 
 + żąglerkę technologiami czas zacząć!
-+ entuzjasta!pl
+[entuzjasta!pl](http://www.entuzjasta.pl/)
       
 Proste technologiczne rozwiąznia, szybkie we wdrożeniu to tematyka jaką chcę poruszać.
 
@@ -25,6 +25,17 @@ Projekt "entuzjasta" to moja odpowiedź na lockdown.
 
       Do miłego zobaczenia,
       Tom Sapletta
+
+Więcej informacji:
+[entuzjasta.pl](http://blog.entuzjasta.pl/)
+
+
+Aktualnie rozwijane projekty
++ [jLoads](http://docs.jruns.com/)
++ [jRuns](http://docs.jruns.com/)
++ [Goethe](http://goethe.pl)
+
+
 
 TAGI:
 + #entuzjasta 
