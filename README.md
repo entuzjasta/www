@@ -1,4 +1,5 @@
-# Hardware & Software Development z pasją, od pomysyłu do wdrożenia i utrzymania
+# [entuzjasta.pl](http://www.entuzjasta.pl/)
+Hardware & Software Development z pasją, od pomysyłu do wdrożenia i utrzymania
 
 ![logo.entuzjasta](http://logo.entuzjasta.pl/1/default.png)
 
