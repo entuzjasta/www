@@ -1,5 +1,7 @@
 # Hardware & Software Development z pasją, od pomysyłu do wdrożenia i utrzymania
 
+![logo.entuzjasta](http://logo.entuzjasta.pl/1/cover.png)
+
 + nakręcamy spiralę entuzjazmu... 
 + żąglerkę technologiami czas zacząć!
 + entuzjasta!pl
