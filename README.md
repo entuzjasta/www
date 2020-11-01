@@ -7,13 +7,17 @@ Hardware & Software Development z pasją, od pomysyłu do wdrożenia i utrzymani
 + żąglerkę technologiami czas zacząć!
 + entuzjasta!pl
 
+
       Projekt "entuzjasta" to moja odpowiedź na lockdown.
+
 
 Proste technologiczne rozwiąznia, szybkie we wdrożeniu to tematyka jaką chcę poruszać.
 
 Będę się starał też na bieżąco odpowiadać na nurtujące Państwa pytania, problemy napotkane w codziennej rutynie biznesowej.
 
-    Razem możemy sobie pomóc.
+
+      Razem możemy sobie pomóc.
+
 
 Będę się dzielił wiedzą zdobytą podczas ponad 10-ciu lat doświadczenia w programowaniu w Polsce i od 2013 roku za granicą.
 
