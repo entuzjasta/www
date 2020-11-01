@@ -31,7 +31,7 @@ Więcej informacji:
 
 
 Aktualnie rozwijane projekty
-+ [jLoads](http://docs.loads.com/)
++ [jLoads](http://docs.jloads.com/)
 + [jRuns](http://docs.jruns.com/)
 + [Goethe](http://docs.goethe.pl)
 
