@@ -6,11 +6,7 @@ Hardware & Software Development z pasją, od pomysyłu do wdrożenia i utrzymani
 + nakręcamy spiralę entuzjazmu... 
 + żąglerkę technologiami czas zacząć!
 + entuzjasta!pl
-
-
-      Projekt "entuzjasta" to moja odpowiedź na lockdown.
-
-
+      
 Proste technologiczne rozwiąznia, szybkie we wdrożeniu to tematyka jaką chcę poruszać.
 
 Będę się starał też na bieżąco odpowiadać na nurtujące Państwa pytania, problemy napotkane w codziennej rutynie biznesowej.
@@ -24,6 +20,8 @@ Będę się dzielił wiedzą zdobytą podczas ponad 10-ciu lat doświadczenia w 
 Od 2021 roku będzie szansa na współpracę w formie konsultacji odpłatnej, obecnie robię to w wolnym czasie i za darmo.
 
 Moja działalność edukacyjna będzie oparta o kilka platform jednocześnie, w formie video, audio i oczywiście pisanej na stronie entuzjasta.pl, którea w tej chwili jest jeszcze w przygotowaniu.
+
+Projekt "entuzjasta" to moja odpowiedź na lockdown.
 
       Do miłego zobaczenia,
       Tom Sapletta
