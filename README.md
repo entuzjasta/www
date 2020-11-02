@@ -7,15 +7,15 @@ Hardware & Software Development z pasją, od pomysyłu do wdrożenia i utrzymani
 + żąglerkę technologiami czas zacząć!
 [entuzjasta!pl](http://www.entuzjasta.pl/)
       
-Proste technologiczne rozwiąznia, szybkie we wdrożeniu to tematyka jaką chcę poruszać.
-
-Będę się starał też na bieżąco odpowiadać na nurtujące Państwa pytania, problemy napotkane w codziennej rutynie biznesowej.
-
+## Start      
+Od grudnia 2020, raz w tygoniu online, będę prezentował proste technologiczne rozwiąznia, szybkie we wdrożeniu, odpowiadając na nurtujące Państwa pytania, problemy napotkane w sferze technicznej dotyczącej wielu firm.
 
       Razem możemy sobie pomóc.
 
 
 Będę się dzielił wiedzą zdobytą podczas ponad 10-ciu lat doświadczenia w programowaniu w Polsce i od 2013 roku za granicą.
+
+## Pomoc bezpośrednia w formie konsultacji online
 
 Od 2021 roku będzie szansa na współpracę w formie konsultacji odpłatnej, obecnie robię to w wolnym czasie i za darmo.
 
