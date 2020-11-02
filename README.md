@@ -19,7 +19,7 @@ Będę się dzielił wiedzą zdobytą podczas ponad 10-ciu lat doświadczenia w 
 
 Od 2021 roku będzie szansa na współpracę w formie konsultacji odpłatnej, obecnie robię to w wolnym czasie i za darmo.
 
-Moja działalność edukacyjna będzie oparta o kilka platform jednocześnie, w formie video, audio i oczywiście pisanej na stronie entuzjasta.pl, którea w tej chwili jest jeszcze w przygotowaniu.
+Moja działalność edukacyjna będzie oparta o kilka platform jednocześnie, w formie video, audio i oczywiście pisanej na stronie entuzjasta.pl, która w tej chwili jest jeszcze w przygotowaniu.
 
 Projekt "entuzjasta" to moja odpowiedź na lockdown.
 
