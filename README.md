@@ -1,11 +1,11 @@
-# [entuzjasta.pl](http://www.entuzjasta.pl/)
+# [entuzjasta.pl](https://www.entuzjasta.pl/)
 Hardware & Software Development z pasją, od pomysyłu do wdrożenia i utrzymania
 
-![logo.entuzjasta](http://logo.entuzjasta.pl/1/default.png)
+![logo.entuzjasta](https://logo.entuzjasta.pl/1/default.png)
 
 + nakręcamy spiralę entuzjazmu... 
 + żąglerkę technologiami czas zacząć!
-[entuzjasta!pl](http://www.entuzjasta.pl/)
+[entuzjasta!pl](https://www.entuzjasta.pl/)
       
 ## Start      
 Od grudnia 2020, raz w tygoniu online, będę prezentował proste technologiczne rozwiąznia, szybkie we wdrożeniu, odpowiadając na nurtujące Państwa pytania, problemy napotkane w sferze technicznej dotyczącej wielu firm.
@@ -27,13 +27,13 @@ Projekt "entuzjasta" to moja odpowiedź na lockdown.
       Tom Sapletta
 
 Więcej informacji:
-[entuzjasta.pl](http://blog.entuzjasta.pl/)
+[entuzjasta.pl](https://blog.entuzjasta.pl/)
 
 
 Aktualnie rozwijane projekty
-+ [jLoads](http://docs.jloads.com/)
-+ [jRuns](http://docs.jruns.com/)
-+ [Goethe](http://docs.goethe.pl)
++ [jLoads](https://docs.jloads.com/)
++ [jRuns](https://docs.jruns.com/)
++ [Goethe](https://docs.goethe.pl)
 
 
 
