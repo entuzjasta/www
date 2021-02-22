@@ -3,7 +3,8 @@ html {
 }
 
 body {
-    background: #b6d5dd url("bg.png") no-repeat center center fixed;
+    /*background: #b6d5dd url("bg.png") no-repeat center center fixed;*/
+    background: #ffffff url("pc.jpg") no-repeat center center fixed;
     background-size: 120% auto;
     position: fixed;
     padding: 0px;
@@ -51,8 +52,8 @@ p {
 
 .profile-card {
     background: #FFB300;
-    width: 56px;
-    height: 56px;
+    width: 156px;
+    height: 256px;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -73,7 +74,7 @@ p {
 .profile-card header {
     width: 179px;
     height: 280px;
-    padding: 40px 20px 30px 20px;
+    padding: 20px 20px 30px 20px;
     display: inline-block;
     float: left;
     border-right: 2px dashed #EEEEEE;
@@ -138,7 +139,7 @@ p {
     height: 180px;
     display: inline-block;
     float: right;
-    padding: 50px 20px 30px 20px;
+    padding: 20px 20px 30px 20px;
     background: #FFFFFF;
     color: #333333;
     margin-top: 50px;
@@ -146,6 +147,7 @@ p {
     opacity: 0;
     -webkit-animation: moveIn 1s 3.1s ease forwards;
     animation: moveIn 1s 3.1s ease forwards;
+    font-size: 11pt;
 }
 
 .profile-social-links {
@@ -225,6 +227,10 @@ p {
     color: #181717;
 }
 
+.website {
+    color: #003cb5;
+}
+
 .bitcoin {
     color: #F7931A;
 }
@@ -277,7 +283,7 @@ p {
     .profile-card header {
         width: auto;
         height: auto;
-        padding: 30px 20px;
+        padding: 20px 20px;
         display: block;
         float: none;
         border-right: none;
