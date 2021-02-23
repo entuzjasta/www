@@ -4,7 +4,7 @@ html {
 
 body {
     /*background: #b6d5dd url("bg.png") no-repeat center center fixed;*/
-    background: #ffffff url("pc.jpg") no-repeat center center fixed;
+    /*background: #ffffff url("../img/pc.jpg") no-repeat center center fixed;*/
     background-size: 120% auto;
     position: fixed;
     padding: 0px;
@@ -57,7 +57,7 @@ p {
     position: absolute;
     left: 50%;
     top: 50%;
-    z-index: 2;
+    z-index: 11;
     overflow: hidden;
     opacity: 0;
     margin-top: 70px;
